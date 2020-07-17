@@ -4,16 +4,12 @@
 
 body {
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-    margin: 0;
-    background: #000000
+    margin: 0
 }
 
 .container {
-    background: #000000;
-    width: 800px;
-    margin: 0 auto;
-    margin-top: 30px;
-    box-shadow: 0 4px 8px 0 rgba(53, 105, 128, 0.3), 0 6px 20px 0 rgba(165, 200, 213, 0.41)
+    background: #ffffff;
+    margin: auto;
 }
 
 .free-message:before {
