@@ -10,6 +10,7 @@ body {
 .container {
     background: #ffffff;
     margin: auto;
+    padding-left: 10px
 }
 
 .free-message:before {
